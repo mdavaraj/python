@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>Mark Python</name>
+=======
+	<name>python mark</name>
+>>>>>>> 861bc55359f8519604636152ef4abf5822e17abf
 	<comment></comment>
 	<projects>
 	</projects>
@@ -10,8 +14,19 @@
 			<arguments>
 			</arguments>
 		</buildCommand>
+<<<<<<< HEAD
 	</buildSpec>
 	<natures>
+=======
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+>>>>>>> 861bc55359f8519604636152ef4abf5822e17abf
 		<nature>org.python.pydev.pythonNature</nature>
 	</natures>
 </projectDescription>

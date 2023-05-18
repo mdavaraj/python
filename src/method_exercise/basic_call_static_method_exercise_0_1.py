@@ -2,6 +2,7 @@
 # 1. Functions Make task more structure
 # 2. Functions Make Testing and Debugging Easier
 # 3. Functions Let You Reuse Code
+from method_exercise.basic_static_method_class import StaticMethodClass
 
 # Objective  
 # To understand static method and basic structure programming
@@ -13,8 +14,6 @@
 # Follow TODO below
 
 
-#from cls.method_exercise.basic_static_method_class import StaticMethodClass
-from basic_static_method_class import StaticMethodClass
 
 print ('basic_call_static_method_exercise_0.1-->', StaticMethodClass.sparePartStatic())
 
@@ -22,6 +21,6 @@ print ('basic_call_static_method_exercise_0.1-->', StaticMethodClass.sparePartSt
 # Call the sparePartStaticWithParameter method with passing parameter 
 # Your output need to be as below
 
-print ('basic_call_static_method_exercise_0.1 with parameter-->',StaticMethodClass.sparePartStaticWithParameter(900))
+print ('basic_call_static_method_exercise_0.1 with parameter-->')
 
 # basic_call_static_method_exercise_0 with parameter--> 901
