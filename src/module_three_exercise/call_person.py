@@ -1,5 +1,5 @@
 #create object
-from cls.cls_object.person import Person
+from module_three_exercise.person import Person
 
 person = Person()
 person.name = 'Andy'
