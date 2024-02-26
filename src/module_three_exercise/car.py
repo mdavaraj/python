@@ -7,7 +7,7 @@ class Car:
     #Static Function
     @staticmethod 
     def getPrice(x):
-        return x;
+        return "10";
     
     #Object Function    
     def getObjectPrice(self):
